@@ -1,0 +1,14 @@
+{
+  "name": "ts-4.5.2-perf-issue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "4.5.2"
+  },
+  "dependencies": {
+    "@types/react": "^17.0.37",
+    "react": "^17.0.2",
+    "react-hook-form": "7.17.1"
+  }
+}
